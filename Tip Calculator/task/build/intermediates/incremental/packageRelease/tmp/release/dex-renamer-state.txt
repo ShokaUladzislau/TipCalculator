@@ -1,0 +1,4 @@
+#Thu Mar 25 15:59:54 CDT 2021
+base.0=/Users/uladzislaushoka/StudioProjects/Tip Calculator/Tip Calculator/task/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
